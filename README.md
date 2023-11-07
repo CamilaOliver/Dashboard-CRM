@@ -14,6 +14,8 @@ que desejam gerenciar e aprimorar seus relacionamentos com os clientes.
 
 ![Logo da Minha Aplicação](oportunidades_perdidas.jpeg)
 
+![Logo da Minha Aplicação](atividades.jpeg)
+
 ![Logo da Minha Aplicação](produtividades_usuarios.jpeg)
 
 
